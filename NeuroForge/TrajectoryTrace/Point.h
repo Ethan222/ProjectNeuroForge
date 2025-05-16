@@ -11,12 +11,15 @@ struct Point {
 
 inline std::istream& operator>>(std::istream& in, Point& p)
 {
-	in >> p.x >> p.y;
+	// row is a letter, column is a number
+	char row{};
+	in >> row >> p.x;
+	p.y = toupper(row) - 'A';
 	return in;
 }
 
 std::ostream& operator<<(std::ostream& out, const Point& p) {
-	out << '(' << p.x << ", " << p.y << ')';
+	out << static_cast<char>('A' + p.y) << p.x;
 	return out;
 }
 

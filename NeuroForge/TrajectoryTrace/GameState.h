@@ -80,5 +80,5 @@ void GameState::run() {
 	map.display(false, ball->getX(), ball->getY());
 	std::cout << "\nPrediction: " << prediction << '\n'
 				<< "    Actual: " << actual << "\n\n"
-		<< (prediction == actual ? "Correct!" : "Incorrect") << '\n';
+		<< (prediction == actual ? "Correct!" : "Incorrect") << "\n\n";
 }

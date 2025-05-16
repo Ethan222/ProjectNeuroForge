@@ -88,7 +88,7 @@ void GameMap::display(bool empty, int ballX, int ballY) const
     }
     std::cout << '\n';
     for (int y = 0; y < height; ++y) {
-        std::cout << y << ' ';
+        std::cout << static_cast<char>('A' + y) << ' ';
         for (int x = 0; x < width; ++x) {
             if (x == ballX && y == ballY) std::cout << BALL;
             else {

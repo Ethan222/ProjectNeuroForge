@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\",
+  "WorkspaceRootPath": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\TrajectorySim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\GameMap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\GameState.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\TrajectorySim.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D3A29107-ACBE-4A59-AD95-7A7DEA629EE0}|TrajectoryTrace\\TrajectoryTrace.vcxproj|solutionrelative:TrajectoryTrace\\Ball.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -34,41 +34,41 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Source.cpp",
               "RelativeDocumentMoniker": "TrajectoryTrace\\Source.cpp",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Source.cpp",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Source.cpp",
               "RelativeToolTip": "TrajectoryTrace\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-08T00:40:52.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GameState.h",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameState.h",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameState.h",
               "RelativeDocumentMoniker": "TrajectoryTrace\\GameState.h",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameState.h",
-              "RelativeToolTip": "TrajectoryTrace\\GameState.h",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameState.h*",
+              "RelativeToolTip": "TrajectoryTrace\\GameState.h*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-08T20:48:53.626Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TrajectorySim.h",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h",
               "RelativeDocumentMoniker": "TrajectoryTrace\\TrajectorySim.h",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\TrajectorySim.h",
               "RelativeToolTip": "TrajectoryTrace\\TrajectorySim.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -79,36 +79,37 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Ball.h",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Ball.h",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Ball.h",
               "RelativeDocumentMoniker": "TrajectoryTrace\\Ball.h",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Ball.h",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Ball.h",
               "RelativeToolTip": "TrajectoryTrace\\Ball.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-08T18:17:05.892Z"
+              "WhenOpened": "2025-05-08T18:17:05.892Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "GameMap.h",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameMap.h",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameMap.h",
               "RelativeDocumentMoniker": "TrajectoryTrace\\GameMap.h",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\GameMap.h",
-              "RelativeToolTip": "TrajectoryTrace\\GameMap.h",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\GameMap.h*",
+              "RelativeToolTip": "TrajectoryTrace\\GameMap.h*",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-07T23:25:09.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Point.h",
-              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Point.h",
+              "DocumentMoniker": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Point.h",
               "RelativeDocumentMoniker": "TrajectoryTrace\\Point.h",
-              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\NeuroForge\\TrajectoryTrace\\Point.h",
-              "RelativeToolTip": "TrajectoryTrace\\Point.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ethan\\Documents\\C\u002B\u002B personal\\ProjectNeuroForge\\NeuroForge\\TrajectoryTrace\\Point.h*",
+              "RelativeToolTip": "TrajectoryTrace\\Point.h*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-05-08T20:58:19.815Z",
               "EditorCaption": ""
