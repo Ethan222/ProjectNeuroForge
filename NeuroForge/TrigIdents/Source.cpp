@@ -15,6 +15,11 @@ int main() {
 		{"1 + cot^2(x)", "csc^2(x)"},
 		{"sin(2x)", "2sin(x)cos(x)"}
 	};
+	// add the reverse of each card above
+	const size_t originalSize = cards.size();
+	for (int i = 0; i < originalSize; ++i) {
+		cards.push_back({ cards[i].second, cards[i].first });
+	}
 
 	// shuffle
 	unsigned seed = static_cast<unsigned>(chrono::system_clock::now().time_since_epoch().count());
