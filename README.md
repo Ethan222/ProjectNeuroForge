@@ -7,3 +7,4 @@ Includes minigames to hone different skills:
    * A photon is shown entering the map at a random position
    * User predicts where it will exit after bouncing off the mirrors
    * Correct path is shown
+- TrigIdents: practice trig identities
