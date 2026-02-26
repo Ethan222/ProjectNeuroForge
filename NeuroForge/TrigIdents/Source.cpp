@@ -7,13 +7,15 @@
 #include<cctype>
 using namespace std;
 int main() {
-	cout << "Trig Identities Practice\n\n";
+	cout << "Calc Practice\n\n";
 
 	vector<pair<string, string>> cards = {
 		{"cos^2(x) - sin^2(x)", "cos(2x)"},
 		{"1 + tan^2(x)", "sec^2(x)"},
 		{"1 + cot^2(x)", "csc^2(x)"},
-		{"sin(2x)", "2sin(x)cos(x)"}
+		{"sin(2x)", "2sinxcosx"},
+		{"d/dx sec(x)", "sec(x)tan(x)"},
+		{"d/dx csc(x)", "-csc(x)cot(x)"},
 	};
 	// add the reverse of each card above
 	const size_t originalSize = cards.size();
