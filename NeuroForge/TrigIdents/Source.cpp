@@ -10,12 +10,15 @@ int main() {
 	cout << "Calc Practice\n\n";
 
 	vector<pair<string, string>> cards = {
-		{"cos^2(x) - sin^2(x)", "cos(2x)"},
+		{"cos^2(x) - sin^2(x)", "cos2x"},
 		{"1 + tan^2(x)", "sec^2(x)"},
 		{"1 + cot^2(x)", "csc^2(x)"},
-		{"sin(2x)", "2sinxcosx"},
-		{"d/dx sec(x)", "sec(x)tan(x)"},
-		{"d/dx csc(x)", "-csc(x)cot(x)"},
+		{"sin2x", "2sinxcosx"},
+		{"d/dx secx", "secxtanx"},
+		{"d/dx cscx", "-cscxcotx"},
+		{"d/dx a^x", "a^x ln(a)"},
+		{"wave equation", "d^2u/dt^2 = a^2 d^2u/dx^2"},
+		{"Laplace's equation", "d^2u/dx^2 + d^2u/dy^2 = 0"}
 	};
 	// add the reverse of each card above
 	const size_t originalSize = cards.size();
